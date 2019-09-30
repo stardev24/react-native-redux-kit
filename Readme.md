@@ -26,7 +26,7 @@ This starter kit help to start with react native project which will take from sc
 
 # Demo
 
-    ![](app.gif)
+![](app.gif)
 
 # Data source for testing
 
