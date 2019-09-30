@@ -26,7 +26,7 @@ This starter kit help to start with react native project which will take from sc
 
 # Demo
 
-![](app.gif)
+![](https://sampleppt.s3.ap-south-1.amazonaws.com/app.gif)
 
 # Data source for testing
 
