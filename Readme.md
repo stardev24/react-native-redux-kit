@@ -31,3 +31,9 @@ This starter kit help to start with react native project which will take from sc
 # Data source for testing
 
     The sample api was taken from https://reqres.in
+
+# How to Run
+
+Yarn start
+
+For android react-native run-android (This will install apk in connected android device which will be used for dev and debug purpose)
